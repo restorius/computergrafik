@@ -27,3 +27,4 @@ C:\Users\summe\OneDrive\Dokumente\computergrafikspiel\Spiel\Temp\bin\Debug\Unity
 C:\Users\summe\OneDrive\Dokumente\computergrafikspiel\Spiel\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 C:\Users\summe\OneDrive\Dokumente\computergrafikspiel\Spiel\obj\Debug\Assembly-CSharp.dll
 C:\Users\summe\OneDrive\Dokumente\computergrafikspiel\Spiel\obj\Debug\Assembly-CSharp.pdb
+C:\Users\summe\OneDrive\Dokumente\computergrafikspiel\Spiel\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
